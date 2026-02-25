@@ -48,7 +48,7 @@ Easily deploy your own instance of Utopia using one of the platforms below:
 ### Manual Setup
 ```bash
 # Clone the repository
-git clone https://github.com/UtopiaUnblocker/Utopia.git
+git clone (https://<Marymalharbi300xxx@gmail.com>.github.io/<Historylearning.com>/)
 cd Utopia
 
 # Install dependencies
@@ -57,14 +57,6 @@ npm install
 # Start the server
 npm start
 ```
-
----
-## 💬 Community & Support
-Need help deploying or want to suggest features?
-- Join the official Discord: **[discord.gg/hFZC5cgsmq](https://discord.gg/hFZC5cgsmq)**
-
-[![Join us on Discord](https://invidget.switchblade.xyz/hFZC5cgsmq?theme=dark)](https://discord.gg/unblockers)
-
 ---
 <p align="center">
   <strong>⭐ Star this repository if Utopia helps you!</strong>
